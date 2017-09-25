@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/activemq-all-5.15.0.jar lib/bson-3.0.1.jar lib/gson-2.8.0.jar lib/mongodb-driver-3.0.1.jar lib/mongodb-driver-core-3.0.1.jar
+Main-Class: com.dataojo.topic.Run
+
